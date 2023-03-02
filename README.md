@@ -16,5 +16,5 @@ Welcome to the CMS-URG Paper Reading Group Repository.
 * [CMS-URG Slack](https://join.slack.com/t/cmsundergradr-eoj8408/shared_invite/zt-1kga2yc6s-DM1~Badb926F1aQaaEMcDQ)
 * [ACM Digital Library](https://dl.acm.org/)
 * [How to read an academic paper - Mariana Jardim](https://guides.library.utoronto.ca/c.php?g=250712&p=5096600)
-* [How to read a paper](https://github.com/cms-urg/Paper-Reading-Group/blob/723f3beec24a58faa1d74a098c8f771ef942772f/Slides/How%20to%20Read%20a%20Paper%20-%20Linda%20Lo.pptx)
+* [How to read a paper - Linda Lo](https://github.com/cms-urg/Paper-Reading-Group/blob/723f3beec24a58faa1d74a098c8f771ef942772f/Slides/How%20to%20Read%20a%20Paper%20-%20Linda%20Lo.pptx)
 * [Sample Paper Review Guidelines](https://docs.google.com/document/d/10hUfe9gCkQ4hTpAk_5-QghLWG0uAK1g86g8VC8G-MAU/edit?usp=sharing)
