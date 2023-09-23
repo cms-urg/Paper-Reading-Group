@@ -2,6 +2,13 @@
 
 Welcome to the CMS-URG Paper Reading Group Repository.
 
+## Plan for 2023-2024
+|Meeting Date|Paper|Slide Deck|Resources|Presenter|
+|-|-|-|-|-|
+|22-09-23|[Additional Evidence for the Prevalence of the Impostor Phenomenon in Computing](https://doi.org/10.1145/3478431.3499282)|[slides]()||[Angela Zavaleta](https://www.linkedin.com/in/angela-zavaleta-bernuy/)|
+
+
+
 ## Plan for 2022-2023
 |Meeting Date|Paper|Slide Deck|Resources|Presenter|
 |-|-|-|-|-|
