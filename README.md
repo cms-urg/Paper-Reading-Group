@@ -5,7 +5,9 @@ Welcome to the CMS-URG Paper Reading Group Repository.
 ## Plan for 2023-2024
 |Meeting Date|Paper|Slide Deck|Resources|Presenter|
 |-|-|-|-|-|
-|22-09-23|[Additional Evidence for the Prevalence of the Impostor Phenomenon in Computing](https://doi.org/10.1145/3478431.3499282)|[slides]()||[Angela Zavaleta](https://www.linkedin.com/in/angela-zavaleta-bernuy/)|
+|22-09-23|[Additional Evidence for the Prevalence of the Impostor Phenomenon in Computing](https://doi.org/10.1145/3478431.3499282)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/dac72c3809e094cc99ab23e51df32c2d6b4e1881/Slides/Imposter%20Phenomenon%20-%20Angela%20Zavaleta.pdf)||[Angela Zavaleta](https://www.linkedin.com/in/angela-zavaleta-bernuy/)|
+|20-10-23|[Teaching objects-first in introductory computer science](https://doi.org/10.1145/792548.611966)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/8424ee7bdf8c7a2bb467fda4dfb4b230c9502db0/Slides/Teaching%20Objects-first_Tony_Tan.pdf)||[Tony Tan](https://www.linkedin.com/in/youxin-t-44b826159)|
+
 
 
 
