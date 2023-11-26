@@ -8,7 +8,8 @@ Welcome to the CMS-URG Paper Reading Group Repository.
 |22-09-23|[Additional Evidence for the Prevalence of the Impostor Phenomenon in Computing](https://doi.org/10.1145/3478431.3499282)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/dac72c3809e094cc99ab23e51df32c2d6b4e1881/Slides/Imposter%20Phenomenon%20-%20Angela%20Zavaleta.pdf)||[Angela Zavaleta](https://www.linkedin.com/in/angela-zavaleta-bernuy/)|
 |20-10-23|[Teaching objects-first in introductory computer science](https://doi.org/10.1145/792548.611966)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/8424ee7bdf8c7a2bb467fda4dfb4b230c9502db0/Slides/Teaching%20Objects-first_Tony_Tan.pdf)||[Tony Tan](https://www.linkedin.com/in/youxin-t-44b826159)|
 |03-11-23|[Critical Pedagogy in Practice in the Computing Classroom](https://doi.org/10.1145/3545945.3569840)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/6ccbbb2e5d36d16ced6868b49d64031aaa3e99f0/Slides/Critical%20Pedagogy%20in%20Practice%20Evelyn%20Pan.pdf)||[Evelyn Pan](mailto:evelyn.pan@mail.utoronto.ca)|
-
+|17-11-23|[Social Engineering Intrusion: A Case Study](https://doi.org/10.1145/3406601.3406631)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/89b39f0b394125ba7889653cf7ede45d851e739a/Slides/Social%20Engineering%20Intrusion.pdf)||[Sadra Setarehdan](https://www.linkedin.com/in/sadra-setarehdan)|
+|24-11-23|[Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience](https://dl.acm.org/doi/pdf/10.1145/3501385.3543959)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/325a1b9fb2083488128371419c8c020c872fecf9/Slides/Exploring%20Group%20Dynamics%20-%20Yulong.pdf)||[Yulong Liu](mailto:yulo.liu@mail.utoronto.ca)|
 
 
 
