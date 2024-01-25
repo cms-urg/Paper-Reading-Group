@@ -11,6 +11,7 @@ Welcome to the CMS-URG Paper Reading Group Repository.
 |17-11-23|[Social Engineering Intrusion: A Case Study](https://doi.org/10.1145/3406601.3406631)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/89b39f0b394125ba7889653cf7ede45d851e739a/Slides/Social%20Engineering%20Intrusion.pdf)||[Sadra Setarehdan](https://www.linkedin.com/in/sadra-setarehdan)|
 |24-11-23|[Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience](https://dl.acm.org/doi/pdf/10.1145/3501385.3543959)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/325a1b9fb2083488128371419c8c020c872fecf9/Slides/Exploring%20Group%20Dynamics%20-%20Yulong.pdf)||[Yulong Liu](mailto:yulo.liu@mail.utoronto.ca)|
 |01-12-23|[Deep learning models in genomics](https://doi.org/10.1016/j.csbj.2020.06.017)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/4a1484fbe8a6fddfd37c510dd0e891ef96019eda/Slides/DS%20in%20genomics%20-%20Zahra.pdf)||[Zahra Hoseininia](https://www.linkedin.com/in/zahra-hoseini-nia-7544ab201/)|
+|25-01-24|[Understanding teacher perceptions of assistive technology](https://doi.org/10.1177/0162643419841550)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/e8905588c77ab98ba30c5f382d58e902b1a96cb4/Slides/Teacher%20Perceptions%20-%20Ada%20Cakmak.pdf)||[Ada Cakmak](linkedin.com/in/nevin-ada-cakmak)|
 
 
 
