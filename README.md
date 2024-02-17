@@ -12,7 +12,7 @@ Welcome to the CMS-URG Paper Reading Group Repository.
 |24-11-23|[Exploring Group Dynamics in a Group-Structured Computing Undergraduate Research Experience](https://dl.acm.org/doi/pdf/10.1145/3501385.3543959)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/325a1b9fb2083488128371419c8c020c872fecf9/Slides/Exploring%20Group%20Dynamics%20-%20Yulong.pdf)||[Yulong Liu](mailto:yulo.liu@mail.utoronto.ca)|
 |01-12-23|[Deep learning models in genomics](https://doi.org/10.1016/j.csbj.2020.06.017)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/4a1484fbe8a6fddfd37c510dd0e891ef96019eda/Slides/DS%20in%20genomics%20-%20Zahra.pdf)||[Zahra Hoseininia](https://www.linkedin.com/in/zahra-hoseini-nia-7544ab201/)|
 |25-01-24|[Understanding teacher perceptions of assistive technology](https://doi.org/10.1177/0162643419841550)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/e8905588c77ab98ba30c5f382d58e902b1a96cb4/Slides/Teacher%20Perceptions%20-%20Ada%20Cakmak.pdf)||[Ada Cakmak](linkedin.com/in/nevin-ada-cakmak)|
-
+|15-02-24|[Post-Quantum Cryptography Neural Network](https://doi.org/10.1109/ICSSES58299.2023.10201083)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/7048f44d2b6dd68d37c21da698c3e3b0b2c9d091/Slides/PQC%20-%20Neural%20Network%20-%20Setarehdan%20-%20Presentation.pdf)||[Sadra Setarehdan](https://www.linkedin.com/in/sadra-setarehdan)|
 
 
 ## Plan for 2022-2023
