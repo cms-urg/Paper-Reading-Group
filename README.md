@@ -16,7 +16,7 @@ Welcome to the CMS-URG Paper Reading Group Repository.
 |01-03-24|[The Robots Are Coming: Exploring the Implications of OpenAI Codex on Introductory Programming](https://doi.org/10.1145/3511861.3511863)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/9ab8d7569d660f31c0d1bb59109797661aa214fd/Slides/The%20Robots%20Are%20Coming_Zhiyu.pdf)||[Zhiyu Pan](https://www.linkedin.com/in/zhiyu-pan-chloe333/)|
 |07-03-24|[Marking Material Interactions with Computer Vision](https://doi.org/10.1145/3544548.3580643)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/188111ccc9178cb17647a4cb013e3a3d92566c54/Slides/Marking%20Material%20Interaction%20-%20Kian.pdf)||[Kian Dianti](mailto:kian.dianati@mail.utoronto.ca)|
 |29-03-24|[Large language models for mathematical reasoning: Progresses and challenges](https://doi.org/10.48550/arXiv.2402.00157)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/059ad6c5053cc95853502cd5af2a0198b915c5b4/Slides/LLM%20for%20Math%20-%20Ada%20and%20Katherine.pdf)||[Ada Cakmak](linkedin.com/in/nevin-ada-cakmak) and [Katherine Lambert](mailto:katherine.lambert@mail.utoronto.ca)|
-
+|23-05-24|[Computing Education in the Era of Generative AI](https://doi.org/10.1145/3624720)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/9b86fc2ff490bde0e8a17e5b93cf62a7c8056501/Slides/CE_GenAi_Asad.pdf)||[Asad Mirza](https://www.linkedin.com/in/asad-mirza-40bb36291/)|
 
 ## Plan for 2022-2023
 |Meeting Date|Paper|Slide Deck|Resources|Presenter|
