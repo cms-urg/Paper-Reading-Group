@@ -18,6 +18,7 @@ Welcome to the CMS-URG Paper Reading Group Repository.
 |29-03-24|[Large language models for mathematical reasoning: Progresses and challenges](https://doi.org/10.48550/arXiv.2402.00157)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/059ad6c5053cc95853502cd5af2a0198b915c5b4/Slides/LLM%20for%20Math%20-%20Ada%20and%20Katherine.pdf)||[Ada Cakmak](linkedin.com/in/nevin-ada-cakmak) and [Katherine Lambert](mailto:katherine.lambert@mail.utoronto.ca)|
 |23-05-24|[Computing Education in the Era of Generative AI](https://doi.org/10.1145/3624720)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/9b86fc2ff490bde0e8a17e5b93cf62a7c8056501/Slides/CE_GenAi_Asad.pdf)||[Asad Mirza](https://www.linkedin.com/in/asad-mirza-40bb36291/)|
 |23-05-24|[Application of Generative Artificial Intelligence in English Education: Taking ChatGPT System as An Example](https://doi.org/10.1109/icet59358.2023.10424297)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/c4ba97a954f39f6808a2f3688a10901bcb98d80a/Slides/Applications%20of%20Generative%20AI%20-%20Neha%20Prabhu.pdf)||[Neha Prabhu](mailto:neha.prabu@mail.utoronto.ca)|
+|26-06-24|[Evaluating a Scalable Program for Undergraduate CS Research](https://doi.org/10.1145/3291279.3339406)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/70b5c55add753dbd122ff7efe71b11043cf6fae3/Slides/Undergrad_CS_Research%20-%20Soso.pdf)||[Soso Song](mailto:soso.song@alum.utoronto.ca)|
 
 ## Plan for 2022-2023
 |Meeting Date|Paper|Slide Deck|Resources|Presenter|
