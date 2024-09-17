@@ -2,6 +2,11 @@
 
 Welcome to the CMS-URG Paper Reading Group Repository.
 
+## Plan for 2024-2025
+|Meeting Date|Paper|Slide Deck|Resources|Presenter|
+|-|-|-|-|-|
+|16-09-24|[Generative artificial intelligence in healthcare: A scoping review on benefits, challenges and applications](https://doi.org/10.1016/j.ijmedinf.2024.105474)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/b3a4c7548d5ade3d60fbc78972c2d83ab0693fd0/Slides/GenAI%20%20in%20Healthcare%20-%20Shreeansha.pdf)||[Shreeansha Bhattarai](https://www.linkedin.com/in/shreeansha-bhattarai-9bb79b217/)|
+
 ## Plan for 2023-2024
 |Meeting Date|Paper|Slide Deck|Resources|Presenter|
 |-|-|-|-|-|
