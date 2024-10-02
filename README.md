@@ -6,6 +6,8 @@ Welcome to the CMS-URG Paper Reading Group Repository.
 |Meeting Date|Paper|Slide Deck|Resources|Presenter|
 |-|-|-|-|-|
 |16-09-24|[Generative artificial intelligence in healthcare: A scoping review on benefits, challenges and applications](https://doi.org/10.1016/j.ijmedinf.2024.105474)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/b3a4c7548d5ade3d60fbc78972c2d83ab0693fd0/Slides/GenAI%20%20in%20Healthcare%20-%20Shreeansha.pdf)||[Shreeansha Bhattarai](https://www.linkedin.com/in/shreeansha-bhattarai-9bb79b217/)|
+|23-09-24|[On Using Physiological Sensors and AI to Monitor Emotions in a Bug-Hunting Game](https://doi.org/10.1145/3649217.3653611)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/8f524ab96940941458e63103d774eb57ff02a37d/Slides/Emotions%20AI%20-%20Ada%20Cakmak.pdf)||[Ada Cakmak](https://www.linkedin.com/in/nevin-ada-cakmak/)|
+|23-09-24|[ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12.](https://doi.org/10.1145/3613904.3642229)|[slides](https://github.com/cms-urg/Paper-Reading-Group/blob/8f524ab96940941458e63103d774eb57ff02a37d/Slides/ChatScratch%20-%20Zubair%20and%20Neha.pdf)||[Zubair Alnoor](https://www.linkedin.com/in/ahmad-zubair-alnoor-413409221/) [Neha Prabhu](mailto:neha.prabu@mail.utoronto.ca)|
 
 ## Plan for 2023-2024
 |Meeting Date|Paper|Slide Deck|Resources|Presenter|
